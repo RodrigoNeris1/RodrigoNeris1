@@ -36,6 +36,8 @@
 <div style="display: inline_block">
    <img align="center" alt="Google Colab" 
    src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+   <img align="center" alt="Notebook Jupyter" 
+   src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
  </div><br/>    
 
   
