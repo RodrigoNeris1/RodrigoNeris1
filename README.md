@@ -3,14 +3,14 @@
 
 ## Tecnologias de Uso Para Estudo
 
-🚀 Skills
+  🚀 Skills
 
 <div style="display: inline_block">
  
   <img align="center" alt="Python" 
    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
 
-   ⚡ Database
+  ⚡ Database
    
   <img align="center" alt="mysql" 
    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
@@ -28,9 +28,16 @@
 <div style="display: inline_block">
    <img align="center" alt="excel" 
    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
- <img align="center" alt="Poer BI" 
+ <img align="center" alt="Power BI" 
    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
  </div><br/>  
+
+ 💻 IDEs/Editors
+<div style="display: inline_block">
+   <img align="center" alt="excel" 
+   src="img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+ </div><br/>    
+
   
 📱 Contact
 
