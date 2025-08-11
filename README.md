@@ -9,7 +9,7 @@
   <img align="center" alt="Python" 
    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
   
-   🖥️ ML/DL
+   🖥️ ML/DL/Libraries
 
  <img align="center" alt="Pandas" 
    src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
