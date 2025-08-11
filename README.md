@@ -1,4 +1,4 @@
-### Olá! Sou o Rodrigo OLiveira Analista de Dados e Cientista de Dados✌🏻
+### Olá! Sou o Rodrigo OLiveira, Analista de Dados e Cientista de Dados✌🏻
 ### Bem vindo ao meu perfil GitHub👋
 
 ## Tecnologias de Uso Para Estudo
