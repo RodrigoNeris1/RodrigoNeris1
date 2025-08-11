@@ -2,9 +2,10 @@
 ### Bem vindo ao meu perfil GitHub👋
 
 ## Tecnologias de Uso Para Estudo
-<div style="display: inline_block">
+
   🚀 Skills
- 
+ <div style="display: inline_block">
+   
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
  
   
