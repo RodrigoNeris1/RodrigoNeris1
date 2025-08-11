@@ -1,4 +1,4 @@
-### Olá! Sou o Rodrigo OLiveira ✌🏻
+### Olá! Sou o Rodrigo OLiveira Analista de Dados e Cientista de Dados✌🏻
 ### Bem vindo ao meu perfil GitHub👋
 
 ## Tecnologias de Uso Para Estudo
@@ -26,14 +26,11 @@
  <img align="center" alt="TensorFlow" 
    src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   
-  
-
   ⚡ Database
-   
-  <img align="center" alt="mysql" 
-   src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img align="center" alt="postgresql"
    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+  <img align="center" alt="mysql" 
+   src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img align="center" alt="mongodb" 
    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
   <img align="center" alt="redis" 
