@@ -27,6 +27,7 @@
    src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   
   ⚡ Database
+  
   <img align="center" alt="postgresql"
    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
   <img align="center" alt="mysql" 
